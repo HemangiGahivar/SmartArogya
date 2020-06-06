@@ -23,11 +23,11 @@ It makes use of the following GCP resources:
 
 In this demo, you can book the doctor appointment with your voice, it will display answers on a screen and synthesize the speech and we are applying the filters in Google Maps as and when the user gives the input. We also support the native languages so that this website can be used for layman too.
 
-![alt text](https://github.com/RajPrabhaShanthaKumar/SmartArogya/docs/docs/usecase.png "Use Case")
+![alt text](https://github.com/RajPrabhaShanthaKumar/SmartArogya/blob/master/docs/Use%20case.png "Use Case")
 
-![alt text](https://github.com/RajPrabhaShanthaKumar/SmartArogya/docs/architecture.png "Architecture")
+![alt text](https://github.com/RajPrabhaShanthaKumar/SmartArogya/blob/master/docs/Architecture.png "Architecture")
 
-![alt text](https://github.com/RajPrabhaShanthaKumar/SmartArogya/docs/docs/screenshot.png "Screenshot")
+![alt text](https://github.com/RajPrabhaShanthaKumar/SmartArogya/blob/master/docs/Screenshot.png "Screenshot")
 
 
 # Live demo
