@@ -1,0 +1,121 @@
+<!--
+ Copyright 2020 Google LLC
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+
+
+<header>
+      <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
+        <a class="navbar-brand" href="#">
+          <img src="../assets/vector_hospital_heart_plus_logo.png" style="width:100px"/>
+          <span class="title">Smart Arogya</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
+          aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item product_tab">
+              <a class="nav-link" routerLink="/">
+                <div class="product_tab__title">Doctors</div>
+                <div class="product_tab__subtitle">Book an appointment</div>
+              </a>
+            </li>
+            <li class="nav-item product_tab">
+              <a class="nav-link disabled" >
+                <div class="product_tab__title">Hospitals</div>
+                <div class="product_tab__subtitle">Register & Book an appointment</div>
+              </a>
+            </li>   
+            <li class="nav-item product_tab">
+              <a class="nav-link disabled" >
+                <div class="product_tab__title">Pharmacy</div>
+                <div class="product_tab__subtitle">Medicines & health products</div>
+              </a>
+            </li>     
+            <li class="nav-item product_tab">
+              <a class="nav-link disabled" >
+                <div class="product_tab__title">Labs</div>
+                <div class="product_tab__subtitle">Book Tests and Checkups</div>
+              </a>
+            </li>      
+            <li class="nav-item product_tab">
+              <a class="nav-link disabled" >
+                <div class="product_tab__title">Ambulance</div>
+                <div class="product_tab__subtitle">Call for Emergency</div>
+              </a>
+            </li>                                            
+          </ul>
+        </div>
+      </nav>
+      </header>
+      <main role="main"><section>
+      
+      <div class="row">
+        <div  [ngClass]="{
+          'col-8': !isHidden,
+          'col-12': isHidden
+       }" >
+       
+       <app-map></app-map>
+      
+      </div>
+        <div class="col-sm-12 col-md-4 htScroll" [hidden]="isHidden"> 
+          <app-waveform #waveform></app-waveform>
+          
+
+            <div class="bot" >
+              <app-dialogflow></app-dialogflow>
+            </div>
+            
+         </div>
+      </div>
+    
+  </section></main>
+
+  <!-- Footer -->
+  <footer class="navbar-fixed-bottom">
+   
+
+  <!-- Copyright -->
+  
+    <ul class="flags">
+      <li>
+        <span class="product_tab__subtitle">
+          Language
+        </span>
+      </li>        
+      <li>
+        <a href="#" (click)="languageSwitch('en-US', $event);">
+          <img class="flag" src="../assets/en-US.svg" alt="American English" />
+        </a>
+      </li>
+      <li>
+        <a href="#" (click)="languageSwitch('hi-IN', $event);">
+          <img [ngClass]="isInActive ? 'inactive' : 'active'" src="../assets/hi-IN.svg" alt="Hindi" />
+        </a>
+      </li>
+     
+    </ul>
+    <app-microphone [waveform]="waveform"></app-microphone>
+  <!-- Copyright -->
+
+</footer>
+
+
+<router-outlet></router-outlet>
+
+

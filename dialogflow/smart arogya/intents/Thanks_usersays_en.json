@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a39c36fa-3af3-4fe0-be75-2a31c571050a",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da0e3af1-e90b-4be0-8cc9-61c48f72899a",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

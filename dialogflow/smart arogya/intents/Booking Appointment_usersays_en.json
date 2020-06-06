@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d4220fec-7015-4aa8-b89d-df95a923e34e",
+    "data": [
+      {
+        "text": "I want to book appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd4103a5-c274-47ba-b3b6-f5c5f8937d79",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e715e6e-b3b7-445c-bac0-252f16d251a0",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

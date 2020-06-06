@@ -1,0 +1,135 @@
+{
+  "entries": [
+    {
+      "address": {
+        "address line1": "Kharadi",
+        "city": "Pune",
+        "latitude": "18.5411°N",
+        "longitude": "73.9358°E",
+        "state": "Maharashtra",
+        "zip": "411014"
+      },
+      "name": "Hemangi Gahivar"
+    },
+    {
+      "address": {
+        "address line1": "Kengeri",
+        "city": "Bangalore",
+        "latitude": "12.9031055°N",
+        "longitude": "77.4974557°E",
+        "state": "Karnataka",
+        "zip": "560100"
+      },
+      "name": "Ravindra Bs"
+    },
+    {
+      "address": {
+        "address line1": "Kalyan west",
+        "city": "Thane",
+        "latitude": "19.2400921°N",
+        "longitude": "73.12923191°E",
+        "state": "Maharashtra",
+        "zip": "421301"
+      },
+      "name": "Paresh Sanghani"
+    },
+    {
+      "address": {
+        "address line1": "Dadar west",
+        "city": "Mumbai",
+        "latitude": "19.0173237°N",
+        "longitude": "73.8307734°E",
+        "state": "Maharashtra",
+        "zip": "400028"
+      },
+      "name": "Kshitij Singh"
+    },
+    {
+      "address": {
+        "address line1": "Bellandur",
+        "city": "Bangalore",
+        "latitude": "12.926394°N",
+        "longitude": "77.676519°E",
+        "state": "Karnataka",
+        "zip": "560099"
+      },
+      "name": "Bagya Shivani"
+    },
+    {
+      "address": {
+        "address line1": "Wagholi,near kesnand phata",
+        "city": "Pune",
+        "latitude": "18.5813255°N",
+        "longitude": "73.9849997°E",
+        "state": "Maharashtra",
+        "zip": "412207"
+      },
+      "name": "Aakash Satav"
+    },
+    {
+      "address": {
+        "address line1": "Ganesh nagar,Nashik",
+        "city": "Nashik",
+        "latitude": "20.019715°N",
+        "longitude": "73.788048°E",
+        "state": "Maharashtra",
+        "zip": "422101"
+      },
+      "name": "Vaishnavi More"
+    },
+    {
+      "address": {
+        "address line1": "Warje Malawadi,Popular nagar",
+        "city": "Pune",
+        "latitude": "18.4847°N",
+        "state": "Maharashtra",
+        "zip": "411058°E"
+      },
+      "name": "Rushikesh R"
+    },
+    {
+      "address": {
+        "address line1": "Nashik road",
+        "city": "Nashik",
+        "latitude": "19.955861°N",
+        "longitude": "73.834029°E",
+        "state": "Maharashtra",
+        "zip": "422101"
+      },
+      "name": "Shubham wani"
+    },
+    {
+      "address": {
+        "address line1": "Hinjewadi Phase 1",
+        "city": "Pune",
+        "latitude": "18.5875622°N",
+        "longitude": "73.7580613°E",
+        "state": "Maharashtra",
+        "zip": "411057"
+      },
+      "name": "Kamaljeet Singh"
+    },
+    {
+      "address": {
+        "address line1": "Nashik Panchavati",
+        "city": "Nashik",
+        "latitude": "20.017109°N",
+        "longitude": "73.794103°E",
+        "state": "Maharashtra",
+        "zip": "422003"
+      },
+      "name": "Ariit Chaudhary"
+    },
+    {
+      "address": {
+        "address line1": "whitefield",
+        "city": "Bangalore",
+        "latitude": "12.9593219°N",
+        "longitude": "77.7463127°E",
+        "state": "Karnataka",
+        "zip": "560099"
+      },
+      "name": "Rajprabhu"
+    }
+  ]
+}

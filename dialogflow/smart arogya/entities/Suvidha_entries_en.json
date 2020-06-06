@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Hospital",
+    "synonyms": [
+      "Hospital",
+      "Clinic"
+    ]
+  },
+  {
+    "value": "Phamacies",
+    "synonyms": [
+      "Phamacies",
+      "Medical",
+      "pharmaceutical"
+    ]
+  },
+  {
+    "value": "Ambulance",
+    "synonyms": [
+      "Ambulance"
+    ]
+  },
+  {
+    "value": "Labs",
+    "synonyms": [
+      "Labs",
+      "Pathalogy",
+      "Blood Test",
+      "laboratory"
+    ]
+  }
+]

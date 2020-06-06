@@ -1,0 +1,50 @@
+{
+  "id": "a1d70c54-2ea6-4b9d-ad23-905562abbaaa",
+  "name": "Language Change",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4ab12a52-9d9a-4f7d-be74-86dcfef9b4be",
+          "required": true,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "which language you preferred?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Language Changed Successfully"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

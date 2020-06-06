@@ -1,0 +1,139 @@
+[
+  {
+    "id": "90293ee1-651b-41e3-ab3a-9f1c1c3be00f",
+    "data": [
+      {
+        "text": "pune",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nearby ",
+        "userDefined": false
+      },
+      {
+        "text": "doctors",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2719052-5a55-4272-ae89-e2e5450cc00e",
+    "data": [
+      {
+        "text": "ambulance",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7683689d-3141-4138-888f-3911e80536a0",
+    "data": [
+      {
+        "text": "clinics",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33650d2d-8479-4c2f-bf8e-554486dab3f9",
+    "data": [
+      {
+        "text": "looking for ",
+        "userDefined": false
+      },
+      {
+        "text": "test labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c1d0ce6-8f6d-4334-aaf0-afdc6ba693e6",
+    "data": [
+      {
+        "text": "hospitals",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " nearby me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed6be886-67ee-4997-a7d2-a5427d436f78",
+    "data": [
+      {
+        "text": "pharma",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " nearby me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11e17ca1-aa49-4069-8f4a-633710d786ff",
+    "data": [
+      {
+        "text": "searching for ",
+        "userDefined": false
+      },
+      {
+        "text": "lab",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9736c14f-55b0-4873-aad8-91f333778319",
+    "data": [
+      {
+        "text": "doctor",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

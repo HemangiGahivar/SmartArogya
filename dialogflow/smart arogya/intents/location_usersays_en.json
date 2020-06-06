@@ -1,0 +1,75 @@
+[
+  {
+    "id": "39a849ed-cab0-4ae4-844a-c7f10e62f351",
+    "data": [
+      {
+        "text": "Dadar west",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d841131-a487-4df9-b702-366e9aa5a727",
+    "data": [
+      {
+        "text": "Nashik road",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a635eecd-650a-42db-aaa0-e4f389019f96",
+    "data": [
+      {
+        "text": "Hinjewadi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16c03cde-5f0d-4961-8a6e-328e6a2bd75e",
+    "data": [
+      {
+        "text": "Warje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad0d467-4fde-4186-b4be-5fb5c2251124",
+    "data": [
+      {
+        "text": "Nashik Panchavati",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6755878f-a89c-4e57-a633-a379a8b8b015",
+    "data": [
+      {
+        "text": "Kharadi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

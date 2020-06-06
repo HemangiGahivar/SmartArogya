@@ -1,0 +1,40 @@
+{
+  "id": "406242d5-d8c9-4530-929a-f01cce973f2d",
+  "name": "Area",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "filter": "address line1",
+            "value": "Kengeri"
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ravindra Bs is available in your preferred location. Do you want to check the appointment?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

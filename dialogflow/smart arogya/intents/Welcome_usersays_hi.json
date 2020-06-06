@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9e1c573c-1053-4714-8390-1cd66cc16ef9",
+    "data": [
+      {
+        "text": "काफ़ी दिनों से बात नहीं हुई",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ce6167f-6fb8-41e2-8976-c24680fce0a7",
+    "data": [
+      {
+        "text": "नमस्कार",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2f4decab-6e19-4371-b10d-c61829748906",
+    "data": [
+      {
+        "text": "नमस्ते",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "3ae090f3-f135-4ee2-92f0-34c8e75b30da",
+    "data": [
+      {
+        "text": "क्या हाल है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4dee5cc1-2c1e-4c1d-9d7a-3d2a789b7a80",
+    "data": [
+      {
+        "text": "सुनो, क्या हाल है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6efacd8-7fd9-472f-9096-f01499f9e2c8",
+    "data": [
+      {
+        "text": "मेरी तरफ़ से नमस्ते",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
